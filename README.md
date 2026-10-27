@@ -123,3 +123,9 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 [azure-pipelines-img]: https://dev.azure.com/chinachu/Mirakurun/_apis/build/status/Chinachu.Mirakurun?branchName=master
 [azure-pipelines-url]: https://dev.azure.com/chinachu/Mirakurun/_build/latest?definitionId=1&branchName=master
 [docker-url]: https://hub.docker.com/r/chinachu/mirakurun
+
+## Support / 開発支援
+
+Long0823-1によるこのフォークの保守・開発活動への支援はこちらです（上流プロジェクトの支援先とは別です）。
+
+[Ko-fiで支援する](https://ko-fi.com/long0823)
